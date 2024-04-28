@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="etNumA">Primeiro termo</string>
+    <string name="etNumB">Segundo termo</string>
+    <string name="etNumC">Terceiro termo</string>
+    <string name="buttonShowX1">Raiz 1</string>
+    <string name="buttonShowX2">Raiz 2</string>
+    <string name="buttonShowDelta">Delta</string>
+    <string name="textNoResulto">Não há raizes reais</string>
+    <string name="textErrorCalc">Não é uma equação de 2º</string>ß
+</resources>
